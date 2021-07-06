@@ -1,0 +1,58 @@
+﻿country,vaccinations,cases,deaths,transmission,population
+Algeria,2500000,137403,3669,Community transmission,43851044
+Angola,1430000,38091,881,Community transmission,32866272
+Benin,15941,8170,104,Community transmission,12123200
+Botswana,219488,70071,1095,Community transmission,2351627
+Burkina Faso,17575,13474,168,Community transmission,20903273
+Burundi,0,5348,8,Community transmission,11890784
+Cabo Verde,74321,32257,285,Community transmission,555987
+Cameroon,102400,80487,1320,Community transmission,26545863
+Central African Republic,77470,7139,98,Community transmission,4829767
+Chad,3657,4951,174,Community transmission,16425864
+Comoros,70920,3986,146,Community transmission,869601
+Congo,88345,12485,165,Community transmission,5518087
+Côte d’Ivoire,740391,48058,309,Community transmission,26378274
+Democratic Republic of the Congo,52856,38938,896,Community transmission,89561403
+Djibouti,16550,11597,155,Clusters of cases,988000
+Egypt,4140000,279184,16002,Clusters of cases,102334404
+Equatorial Guinea,253963,8712,120,Community transmission,1402985
+Eritrea,0,5664,21,Community transmission,3546421
+Eswatini,47623,18947,678,Community transmission,1160164
+Ethiopia,1560000,275601,4296,Community transmission,114963588
+Gabon,49346,24958,159,Community transmission,2225734
+Gambia,41077,6065,181,Community transmission,2416668
+Ghana,1230000,95259,794,Community transmission,31072940
+Guinea,468497,23615,168,Community transmission,13132795
+Guinea-Bissau,12817,3844,69,Community transmission,1968001
+Kenya,1220000,181239,3538,Community transmission,53771296
+Lesotho,36759,11168,329,Community transmission,2142249
+Liberia,40238,3265,110,Community transmission,5057681
+Libya,369316,191660,3185,Community transmission,6871292
+Madagascar,195682,42166,905,Community transmission,27691018
+Malawi,422313,35219,1178,Community transmission,19129952
+Mali,179634,14397,525,Community transmission,20250833
+Mauritania,142362,20512,483,Community transmission,4649658
+Mauritius,706948,1852,18,Clusters of cases,1271768
+Mayotte,0,19405,174,Community transmission,272815
+Morocco,18650000,528180,9265,Community transmission,36910560
+Mozambique,438382,73652,863,Community transmission,31255435
+Namibia,141164,81270,1305,Community transmission,2540905
+Niger,255587,5475,193,Community transmission,24206644
+Nigeria,3100000,167401,2118,Community transmission,206139589
+Réunion,0,29502,226,Community transmission,895312
+Rwanda,578569,33260,397,Community transmission,12952218
+Saint Helena,7785,0,0,No cases,6077
+Sao Tome and Principe,24908,2364,37,Community transmission,219159
+Senegal,632648,42677,1159,Community transmission,16743927
+Seychelles,137976,15111,55,Community transmission,98347
+Sierra Leone,97315,5155,87,Community transmission,7976983
+Somalia,72832,14875,775,Community transmission,15893222
+South Africa,2680000,1877143,59406,Community transmission,59308690
+South Sudan,32959,10812,115,Community transmission,11193725
+Sudan,629692,36574,2750,Clusters of cases,43849260
+Togo,347246,13763,128,Community transmission,8278724
+Tunisia,1690000,395362,14406,Community transmission,11818619
+Uganda,843039,75537,781,Community transmission,45741007
+United Republic of Tanzania,0,509,21,Pending,59734218
+Zambia,151205,140620,1855,Community transmission,18383955
+Zimbabwe,1190000,44306,1709,Community transmission,14862924
